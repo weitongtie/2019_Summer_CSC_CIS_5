@@ -1,7 +1,7 @@
 /* 
  * File:   main.cpp
  * Author: Dr. Mark E. Lehr
- * Created on February 19th, 2019, 12:10 PM
+ * Created on June 17th, 2019, 12:10 PM
  * Purpose:  How to make a banner, test with Big C
  */
 

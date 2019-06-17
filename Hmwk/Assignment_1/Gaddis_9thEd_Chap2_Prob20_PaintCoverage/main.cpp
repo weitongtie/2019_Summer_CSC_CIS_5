@@ -1,7 +1,7 @@
 /* 
  * File:   main.cpp
  * Author: Dr. Mark E. Lehr
- * Created on February 19th, 2019, 11:32 AM
+ * Created on June 17th, 2019, 11:32 AM
  * Purpose:  Paint Coverage Calculation
  */
 
